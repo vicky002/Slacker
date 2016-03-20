@@ -5,11 +5,11 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'Slacker/version'
 
 
-Gem::Specification.new do [spec]
-  spec,name           = 'Slacker'
+Gem::Specification.new do |spec|
+  spec.name           = 'Slacker'
   spec.version        = Slacker::VERSION
   spec.authors        = ["Vikesh Tiwari"]
-  spec.emails         = ["tvicky002@gmail.com"]
+  spec.email         = ["tvicky002@gmail.com"]
   spec.summary        = %q{Slacker Slack API Wrapper}
   spec.description    = %q{Simple to use Slack API wrapper to access Slack API client inspired by Slacker in Python}
   spec.homepage       = "https://github.com/vicky002/Slacker"
