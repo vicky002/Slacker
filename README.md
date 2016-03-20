@@ -1,6 +1,6 @@
 # Slacker
 
-Slacker is full featured web client for Slack API written in Ruby and inspired by Slacker for python.
+Slacker is full featured web client for Slack API written in Ruby and inspired by Slacker for python. It provides easy-access to all the functionalities of Slack API .
 
 # Usages
 
