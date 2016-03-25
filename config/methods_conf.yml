@@ -1,0 +1,12 @@
+api:
+  test:
+    args:
+    options:
+      error: string
+      foo: string
+
+
+auth:
+  test:
+    args:
+      token: token
